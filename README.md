@@ -1,2 +1,2 @@
-# user-sentiment-analysis
-User sentiment analysis prediction using NLP
+# twitter-sentiment-analysis
+twitter sentiment analysis prediction using NLP
